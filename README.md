@@ -26,18 +26,6 @@ The repository consists of two main files:
 4. Implement **request_checksum.js** on your mobile application/device.
 
 ## Test Implementation
-Generate Checksum on your local machine
-```
-node request_checksum.js
-```
-Pass the checksum as a part of the request header to the CloudFront distribution endpoint.
-
-
-Here’s a `Test Implementation` section for the `README.md` file to guide users through testing this CloudFront checksum validation implementation:
-
----
-
-## Test Implementation
 
 ### Prerequisites
 
