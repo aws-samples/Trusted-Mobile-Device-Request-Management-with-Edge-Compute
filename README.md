@@ -1,4 +1,5 @@
-# Secure Header Validation for CloudFront
+# Trusted Mobile Device Request Management with Edge Compute
+
 
 This repository contains code samples for implementing secure header validation for AWS CloudFront. The primary goal is to ensure that incoming requests have a valid checksum, thereby providing a layer of security against tampered or unauthorized requests.
 
